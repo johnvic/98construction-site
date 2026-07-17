@@ -9,6 +9,8 @@ Deploy-only repository for GitHub Pages.
 npm run deploy
 ```
 
-Site URL (project Pages): https://johnvic.github.io/98construction-site/
+Site URL: https://98construction.com  
+(GitHub Pages fallback: https://johnvic.github.io/98construction-site/)
 
-Enable Pages: Settings → Pages → Deploy from branch `main` / root.
+Enable Pages: Settings → Pages → Deploy from branch `main` / root.  
+Custom domain: `98construction.com` (CNAME file in this repo).
